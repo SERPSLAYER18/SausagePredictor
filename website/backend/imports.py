@@ -94,3 +94,13 @@ class Product_translate(BaseEstimator, TransformerMixin):
 
 a = {"date": [3], "product_id": [122788], "store_id": [5699], "sales": [[4, 453, 45, 345, 34, 534, 53, 45, 345,
                                                                          34, 53, 34, 15, 35]]}
+
+
+class PredictionChecker:
+
+    def __init__(self, filename, threshold=10):
+        self.df = pd.read_csv(filename)
+        self.threshold = threshold
+
+    def check(self, store_id, product_id):
+        return len(self.df[(self.df['store_id'] == store_id) & (self.df['product_id'] == product_id)]) > self.threshold

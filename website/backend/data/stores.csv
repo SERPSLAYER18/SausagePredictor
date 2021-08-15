@@ -1,0 +1,82 @@
+store_id,store_address,region,rating,type
+109,Московское шоссе,Minsk,4.4,supermarket
+5642,Я.Мавра,Minsk,4.1,minimarket
+5653,К.Либкнехта,Minsk,3.7,minimarket
+5699,Партизанский,Minsk,4.0,supermarket
+5765,Уральская,Minsk,3.8,minimarket
+5796,Кижеватова,Minsk,3.8,minimarket
+5858,Бобруйск Инт.22,Mogilev,3.1,minimarket
+5912,Борисов Гр.4,Minsk_reg,4.2,supermarket
+6016,К.Бор,Minsk,3.0,minimarket
+6033,Голодеда 13,Minsk,4.0,minimarket
+6034,Одинцова,Minsk,4.3,minimarket
+6035,Звезда,Minsk,4.0,minimarket
+6037,Маяковского 176,Minsk,3.9,minimarket
+6043,Рокоссовского,Minsk,4.4,minimarket
+6059,Филимонова,Minsk,4.0,minimarket
+6061,Левкова,Minsk,4.0,minimarket
+6115,Есенина,Minsk,4.1,supermarket
+6360,Лида Ком 50,Grodno,3.1,supermarket
+6361,Казимировская,Minsk,4.5,supermarket
+6823,Голубева,Minsk,4.4,supermarket
+6853,Рафиева,Minsk,4.5,supermarket
+6867,Жиновича,Minsk,4.4,supermarket
+7088,Солигорск,Minsk_reg,4.4,supermarket
+7090,Игуменский тракт,Minsk,4.4,supermarket
+7238,Налибокская,Minsk,4.4,supermarket
+7245,Борисов Гаг.4а,Minsk_reg,4.4,minimarket
+7557,Кошевого,Minsk,4.1,minimarket
+7562,Уборевича,Minsk,4.4,supermarket
+7707,Волоха,Minsk,4.2,minimarket
+7708,Пушкина 24,Minsk,4.1,minimarket
+7709,Логойский тракт,Minsk,4.1,minimarket
+7740,Лопатина,Minsk,4.3,supermarket
+7743,Мирошниченко,Minsk,4.3,supermarket
+7822,Голодеда 14,Minsk,4.2,minimarket
+7826,Лынькова,Minsk,4.2,supermarket
+7967,Щетовка,Minsk,4.3,supermarket
+8058,Волгоградская,Minsk,4.2,minimarket
+8060,Водолажского,Minsk,4.0,minimarket
+8174,Космонавтов 28,Minsk,4.4,supermarket
+8175,Мястровская,Minsk,4.3,supermarket
+8177,Правда 20,Minsk,4.4,supermarket
+8640,Тарханова,Minsk,4.0,minimarket
+9141,Рабочий,Minsk,4.2,minimarket
+9142,Некрасова,Minsk,4.4,supermarket
+9143,Горецкого,Minsk,4.4,minimarket
+10249,Андреевская 11,Minsk,4.3,minimarket
+10307,Чкалова,Minsk,4.1,minimarket
+10629,Ландера,Minsk,4.2,supermarket
+10674,Космонавтов 5а,Minsk,4.3,supermarket
+11604,Шевченко,Minsk,4.1,minimarket
+11854,Правда 40,Minsk,4.6,supermarket
+12485,Каролинская,Minsk,4.5,supermarket
+12488,Маяковского 16,Minsk,4.3,supermarket
+12959,Притыцкого 40,Minsk,4.3,supermarket
+13052,Несвиж,Minsk_reg,4.2,minimarket
+13192,Казинца 49,Minsk,3.9,minimarket
+13255,Плеханова 34,Minsk,4.4,minimarket
+13256,Радошковичи,Minsk_reg,4.5,minimarket
+14884,Калиновского 55,Minsk,4.0,minimarket
+15421,Бобруйск Минская 149,Mogilev,4.6,supermarket
+15481,Бобруйск Соц. 197,Mogilev,4.2,minimarket
+15712,Пушкина 37,Minsk,4.5,supermarket
+15717,Витебск Моск. 119,Vitebsk,4.5,supermarket
+16055,Восточная,Minsk,4.3,supermarket
+16537,Ольшевского,Minsk,4.2,minimarket
+16568,Бобруйск Парк,Mogilev,4.6,supermarket
+16640,Слуцк Ленина 146,Minsk_reg,4.3,supermarket
+16645,Борисов Трусова,Minsk_reg,4.6,supermarket
+16900,Барановичи Пром.16,Brest,4.0,supermarket
+17104,Голодеда 34а,Minsk,4.3,supermarket
+17219,Гродно Инд.шоссе 9,Grodno,4.4,supermarket
+17469,Дзержинск Фурм. 2,Minsk_reg,4.5,supermarket
+18437,Витебск Черн.26,Vitebsk,4.2,supermarket
+18807,Гродно Сув. 308-3,Grodno,4.0,minimarket
+19346,Жодино Сов.,Minsk_reg,4.2,supermarket
+19351,Слоним Кос.,Grodno,4.5,minimarket
+19352,Валерьяново Лог. 5а,Minsk_reg,4.1,minimarket
+19441,Кальварийская,Minsk,4.2,supermarket
+5699,Партизанский,Minsk,4.0,supermarket
+7088,Солигорск,Minsk_reg,4.4,supermarket
+8174_old,Космонавтов 28 (до модернизации),Minsk,4.4,supermarket
